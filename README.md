@@ -27,7 +27,7 @@ Requisitos Funcionais:
 
 Requisitos Não Funcionais:
 
-**- desenpenho**
+**- desempenho**
   - o site terá dados recebidos por api otimizando o carregamento da pagina,
     assim o pior caso do mau funcionamento seria em caso de uma queda ou manutenção na api.
 
