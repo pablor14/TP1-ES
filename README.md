@@ -30,9 +30,12 @@ Requisitos Não Funcionais:
 **- desenpenho**
   - o site terá dados recebidos por api otimizando o carregamento da pagina,
     assim o pior caso do mau funcionamento seria em caso de uma queda ou manutenção na api.
+
 **- usabilidade**
-   - será intuitivo para facilitar o acesso 
+   - será intuitivo para facilitar o acesso
+
 **- segurança**
    - o site fornecerá uma opção de entrada por login para que somente o usuario possa ver suar informações
+
 **- compatibilidade**
    - o site estará disponível para computador, celular e tablet.
