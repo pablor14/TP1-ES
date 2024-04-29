@@ -8,7 +8,7 @@ TP1 engenharia de software
 - Projetado para minimizar a complexidade na produção e montagem.
 - Tem peças constituintes são facilmente desmontadas e recicladas um dos Objetivos de Desenvolvimento Sustentável (ODS).
 
-** definições de requisitos **
+**definições de requisitos**
 
 Requisitos Funcionais:
 
