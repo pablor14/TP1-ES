@@ -10,7 +10,7 @@ TP1 engenharia de software
 
 **definição de requisitos**
 
-Requisitos Funcionais:
+## Requisitos Funcionais:
 
 **- menu**
   - o site deverá ter um menu para fácil acesso aos usuários.
@@ -25,7 +25,7 @@ Requisitos Funcionais:
 **- informações gerais para contribuir para o consumo e produção sustentável**
   - informações para Conscientizar os usuários
 
-Requisitos Não Funcionais:
+## Requisitos Não Funcionais:
 
 **- desempenho**
   - o site terá dados recebidos por api otimizando o carregamento da pagina,
