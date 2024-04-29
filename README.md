@@ -1,7 +1,7 @@
 # TP1-ES
 TP1 engenharia de software
 
- A aplicação simples que irei usar que contribuirá para promover o consumo e a produção sustentáveis será um site que informara aos usuários sobre esse problema e algumas formas de ajudar e recomendará aos usuários os produtos que:
+ A aplicação simples que irei usar que contribuirá para promover o consumo e a produção sustentáveis será um site que informará aos usuários sobre esse problema e algumas formas de ajudar, ele também recomendará aos usuários os produtos que:
  
 - Usam menos embalagem.
 - É mais minimalista em design com menos peças supérfluas
@@ -14,11 +14,14 @@ Requisitos Funcionais:
 
 **- menu**
   - o site deverá ter um menu para fácil acesso aos usuários.
+    
 **- barra de pesquisa**
-  - a barra de pesquisa deve ser usada para encontrar os produtos desejados 
+  - a barra de pesquisa deve ser usada para encontrar os produtos desejados
+    
 **- produtos e suas informações**
   - os produtos serão mostrados ao serem pesquisados
   - serão mostrados na parte abaixo do menu
+    
 **- informações gerais para contribuir para o consumo e produção sustentável**
   - informações para Conscientizar os usuários
 
